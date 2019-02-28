@@ -1,0 +1,12 @@
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.csproj.CoreCompileInputs.cache
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.AssemblyInfoInputs.cache
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.AssemblyInfo.cs
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\SelfHostingApi.deps.json
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\SelfHostingApi.runtimeconfig.json
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\SelfHostingApi.runtimeconfig.dev.json
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\SelfHostingApi.dll
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\SelfHostingApi.pdb
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.dll
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.pdb
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\arezazadeh\source\repos\SelfHostingApi\SelfHostingApi\obj\Debug\netcoreapp2.2\SelfHostingApi.csprojAssemblyReference.cache
